@@ -1,5 +1,8 @@
 Ola, mundo!
 Primeiro repositório do curso Git GitHub
+
 Repositorio criado durante uma aula ao vivo
+
 Primeira modificação no readme
+
 Adicionando essa linha diretamento do site
